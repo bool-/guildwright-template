@@ -1,0 +1,4 @@
+{
+  "extends": "guildwright/tsconfig.module-repo.json",
+  "include": ["src/**/*.ts", "src/**/*.d.ts"]
+}
